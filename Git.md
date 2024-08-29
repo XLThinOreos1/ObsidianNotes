@@ -158,6 +158,47 @@ head: b/fill.txt
 
 
 
+### Ta bort Branch
+
+git branch -D (branchname)
+
+
+
+### Merge: Skicka ändringar från branch till Master
+När vi är klar med arbetet på ny_branch
+så måste skicka ändringarna till Master & till sist ta bort ny branch 
+flytta head till master
+
+
+
+### Merge conflicts
+Ibland så kan en fil ändras i både master och en under-branch innan en merge ska göras, då är risken stor att det uppstår en merge conflict.
+Detta innebär att mergen avbryts och vi måste gå in och ändra den filen som är osaken till denna.
+
+Undviks genom att göra pull ofta till ny branch
+
+Gör git pull ofta så man vet att man har fresh code
+
+
+### Merge conflicts
+Ibland vi ska merga 2 brancher så uppstår en konflikt
+Merge-operationen avbröts.
+
+Öppna filen som är involverad i konflikten.
+
+Filen har fått information om konfilkten. <<<<<Head start konflikt, === gräns kod branchar och >>> branch:namn slut-konflikt.
+
+Editera filen som den ska se ut. Spara & Avsluta filen
+
+Kör git add
+git commit __utan meddelande__
+
+Kolla logen och se att merge genomförd
+
+
+### Flera brancher jobbar mot master/main
+* När flera jobbar mot master/main repot så behöver vi uppdatera den nya branchen OFTA så vi minimerar **risken för merge conflict**
+* Vi uppdaterar den nya branchen med **Pull**
 
 
 
