@@ -159,24 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdbafe9ee3aeb2a2",
+  "active": "f8a276517865c477",
   "lastOpenFiles": [
+    "RaylibNotes/Olika program.md",
+    "RaylibNotes/Raylib.md",
+    "C/Structs.md",
+    "C/pointer.md",
+    "C/Linked Lists.md",
+    "C/Dynamiska minnet.md",
+    "C/Datastruktur.md",
+    "C/Variabler.md",
+    "RaylibNotes/Vector.md",
     "Annat/Kitty terminal things.md",
     "JohanKunskap",
     "JohanKunskap/Git.md",
-    "RaylibNotes/Vector.md",
     "Annat",
     "Annat/Vim shortcuts.md",
-    "C/Variabler.md",
-    "C/Structs.md",
     "README.md",
-    "C/pointer.md",
-    "RaylibNotes/Olika program.md",
-    "C/Linked Lists.md",
     "C/C (språk).md",
     "C",
     "Untitled.md",
-    "RaylibNotes",
-    "RaylibNotes/Raylib.md"
+    "RaylibNotes"
   ]
 }

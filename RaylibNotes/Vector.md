@@ -26,11 +26,11 @@ Vector kan användas för position och velocity
 
 position += velocity
 
-Vector2.length() räknar ut längden av vektorn åt dig så du slipper använda trigonometri
+Vector2length() räknar ut längden av vektorn åt dig så du slipper använda trigonometri
 
-Vector2.normalize();
+Vector2normalize();
 
-Vector2.add(); Lägger till två vektorer
+Vector2add(); Lägger till två vektorer
 
 När man multiplicerar vektorer så brukar man ta vektorn och gångrar med ett vanligt tal
 
