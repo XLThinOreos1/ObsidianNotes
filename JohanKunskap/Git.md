@@ -203,6 +203,18 @@ Kolla logen och se att merge genomförd
 
 
 
+## Viktigt
+Kör alltid en pull innan man kör en push för att minska risken för merge conflicts
+
+
+
+
+### Remote origin URL
+När vi klona ett github repo så skapas en alias som heter origin
+
+
+
+
 
 
 

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "42709ff9f4b7e9fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "78281fc8480baef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce752cfe6e47a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JohanKunskap/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8a276517865c477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RaylibNotes/Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0f0499e6f8f37dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "52eb5e507be6b2fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdbafe9ee3aeb2a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b33903617cc5482e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d0dfe03bc54af10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e7ac196c9c22099",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17d2f613ff67f63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076ec058ad80e4f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RaylibNotes/Vector.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee9848641e58444e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RaylibNotes/Vector.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68fc172b9f4d3a88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd11f11be5d26aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RaylibNotes/Vector.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fdbafe9ee3aeb2a2",
+  "lastOpenFiles": [
+    "Annat/Kitty terminal things.md",
+    "JohanKunskap",
+    "JohanKunskap/Git.md",
+    "RaylibNotes/Vector.md",
+    "Annat",
+    "Annat/Vim shortcuts.md",
+    "C/Variabler.md",
+    "C/Structs.md",
+    "README.md",
+    "C/pointer.md",
+    "RaylibNotes/Olika program.md",
+    "C/Linked Lists.md",
+    "C/C (språk).md",
+    "C",
+    "Untitled.md",
+    "RaylibNotes",
+    "RaylibNotes/Raylib.md"
+  ]
+}
